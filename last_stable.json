@@ -1,0 +1,12 @@
+{
+    "builds/default.js": {
+        "version": "2.1.1",
+        "md5": "513b7222fe059dafb6a296a2d55677fe",
+        "assetId": 87878243
+    },
+    "builds/my_build.js": {
+        "version": "2.1.1",
+        "md5": "2a16b4e0e0d1c5f46a19087d34f873b6",
+        "assetId": 87878244
+    }
+}
