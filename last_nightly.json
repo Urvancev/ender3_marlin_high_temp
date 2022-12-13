@@ -1,12 +1,12 @@
 {
     "builds/default.js": {
-        "version": "8a5ef7420be7b18f3692f4ef238718b9c3d64e8a",
+        "version": "314e52b32af1afb192ac69f88ba5bd256ea3f0a6",
         "md5": "513b7222fe059dafb6a296a2d55677fe",
-        "assetId": 87878455
+        "assetId": 87986627
     },
     "builds/my_build.js": {
-        "version": "8a5ef7420be7b18f3692f4ef238718b9c3d64e8a",
+        "version": "314e52b32af1afb192ac69f88ba5bd256ea3f0a6",
         "md5": "2a16b4e0e0d1c5f46a19087d34f873b6",
-        "assetId": 87878458
+        "assetId": 87986628
     }
 }
