@@ -19,7 +19,8 @@ module.exports = {
             ["HEATER_6_MAXTEMP", 350],
             ["HEATER_7_MAXTEMP", 350],
             ["BED_MAXTEMP", 135],
-            ["TEMP_SENSOR_0", 147],
+            ["TEMP_SENSOR_0", 1047],
+            "PID_AUTOTUNE_MENU",
             //["MAX31865_SENSOR_OHMS_0", 100],
             //["MAX31865_CALIBRATION_OHMS_0", 430]
         ]
